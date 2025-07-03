@@ -1,3 +1,5 @@
+# Fullstack JWT Auth Boilerplate
+
 A modern, secure, and extensible **fullstack starter template** for your projects.  
 Built with **Go**, **Gin**, **PostgreSQL**, and **JWT** on the backend — and **React** on the frontend.
 
